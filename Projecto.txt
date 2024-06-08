@@ -1,0 +1,5 @@
+AQI - Air Qaulity Index
+No2 - Nitrogen dioxide can be found in industries where diesel fuel is burned.
+PM 10 - They are a type of inhalable particles, with a diameter of less than 10 micrometers
+PM 2.5 - Even smaller particles can penetrate the respiratory system down to the alveolar level 
+interfering with the respiratory process and posing a serious risk to health.
